@@ -14,6 +14,7 @@ public class databaseAccess : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        //test
         client = new MongoClient(MONGO_URI);
         db = client.GetDatabase(DATABASE_NAME);
     }
