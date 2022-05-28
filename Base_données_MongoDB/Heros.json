@@ -1,0 +1,22 @@
+[
+{
+  "nom":"Nom 1",
+  "type_attaque":"Corps à corps",
+  "niveau":"1"
+},
+{
+  "nom":"Nom 2",
+  "type_attaque":"Distance",
+  "niveau":"1"
+},
+{
+  "nom":"Nom 3",
+  "type_attaque":"Magique",
+  "niveau":"1"
+},
+{
+  "nom":"Nom 4",
+  "type_attaque":"Magique",
+  "niveau":"1"
+}
+]
